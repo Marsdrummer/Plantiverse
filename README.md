@@ -15,7 +15,7 @@ The code provided is in two sections: an Arduino sketch for any board that you c
 # What we did
 As laid out in our project description, our overall goal is to highlight the emerging spectrum of rights once granted only to privileged humans - now, increasingly available to all, regardless of gender, ethnicity, or other aspects of identity; and ultimately to the natural world. An indelible aspect of these rights is the right to have agency, autonomy, and ownership. By connecting a living plant to a system for creating art, we wanted to give this non-human being its own monetary assets that can go to protecting its vegetable brethren.
 
-From a technical perspective, we needed a system that would translate data from and about the plant and it's physiology, into code that could then be used to create a large number of different artworks, that it would compose to be minted and sold to raise money.
+From a technical perspective, we needed a system that would translate data from and about the plant and its physiology, into code that could then be used to create a large number of different artworks, that it would compose to be minted and sold to raise money.
 
 We used an Arduino Uno and four analog sensors. There are dozens if not hundreds of amazing sensors to choose from, but we prioritized aspects of the plant environment that change relatively rapidly such as soil moisture and light, to make sure it could capture the short attention span of us easily-distracted humans. In future work, we will look at plant biochemistry, growth rate, and other more difficult to measure factors.
 
