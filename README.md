@@ -42,9 +42,9 @@ The code required for this project was incredibly simple, reflecting the simplic
 
 # Did it work? YES!
 Here's what came out of this project:
-1. Obviously, the system functions as expected: this little minty houseplant can mint NFT are way faster and better then nearly any human.
+1. Obviously, the system functions as expected: this little minty houseplant can mint NFTable art way faster and better then nearly any human.
 2. Our next measure of the effectiveness of this application will be how quickly and for how much the images the plant creates can be sold for in order to raise money for plant preservation. So far, it's looking pretty good!
-3. We also hope that the audacity and humor of the plant artist will spread awareness of how blockchain and cryptocurrency can help sustain the natural world, and even let us see non-human living things as equal participants in a global eco-economy. To this end, we want to continue to mint plant based NFTart, but also expand to more conventional measures of impact. We're hoping to see things such as:
+3. We also hope that the audacity and humor of the plant artist will spread awareness of how blockchain and cryptocurrency can help sustain the natural world, and even let us see non-human living things as equal participants in a global eco-economy. To this end, we want to continue to mint plant based NFT art, but also expand to more conventional measures of impact. We're hoping to see things such as:
 - retweets and reposts of the plant's art
 - requests to meet the plant influencers or commission custom works
 - forks of our project and its code and imagery
