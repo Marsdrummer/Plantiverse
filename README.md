@@ -2,7 +2,6 @@
 
 ![Plantiverse](solsea_auction.png)
 
-
 # How to make it
 First, the hardware! You'll need a plant, an arduino and four sensors. We used:
 
@@ -51,4 +50,7 @@ Here's what came out of this project:
 - other processes of plant-human cocreation
 
 Thanks for reading! 
+
 /Herbie, Minty, Jessica, Cecilia, Mark, and Alex
+
+http://mintnfps.com/
