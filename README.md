@@ -1,6 +1,7 @@
-# Plantiverse
+# Plantiverse - Art made and minted by plants, for plants
 
-https://github.com/Marsdrummer/Plantiverse/wiki
+![Plantiverse](solsea_auction.png)
+
 
 # How to make it
 First, the hardware! You'll need a plant, an arduino and four sensors. We used:
@@ -12,6 +13,9 @@ First, the hardware! You'll need a plant, an arduino and four sensors. We used:
 
 The code provided is in two sections: an Arduino sketch for any board that you can connect to a computer, and a Processing sketch written for Windows (but easily adaptable for Mac OS or Linux).
 
+![Plantiverse](Minty_photo.jpg)
+
+
 # What we did
 As laid out in our project description, our overall goal is to highlight the emerging spectrum of rights once granted only to privileged humans - now, increasingly available to all, regardless of gender, ethnicity, or other aspects of identity; and ultimately to the natural world. An indelible aspect of these rights is the right to have agency, autonomy, and ownership. By connecting a living plant to a system for creating art, we wanted to give this non-human being its own monetary assets that can go to protecting its vegetable brethren.
 
@@ -22,6 +26,9 @@ We used an Arduino Uno and four analog sensors. There are dozens if not hundreds
 We attached each of the four sensors to analog inputs on the Arduino, and wrote code that translated those inputs into a stream of data readable on a Windows-based computer's serial port. We modified a standard Arduino script to accommodate the range of analog inputs from the plant, mapping each onto a 0 to 255 scale.
 
 Separately, we created a Processing sketch that maps those values received from the Arduino via the PC, onto four components of a digital picture of a plant: vases, leaves, flowers and backgrounds. For each of these components, several images were created and numbered sequentially. The Processing sketch takes the variables from the serial port and chooses the appropriate component. It then integrates all of the choices into one image, that it saves as a Scalable Vector Graphics (.svg) file to the user's local drive. We took the first image created by the plant-bot system and loaded it onto an NFT art site, where it was sold at auction.
+
+![Plantiverse](plant_art_components.png)
+
 
 # Why we did it
 While this project used tiny house plants and a strong helping of humor, we see great potential in using a larger scale system based on the same principles to protect farmlands, forests, fields, and all manner of natural resources by giving them agency, authority, and assets.
